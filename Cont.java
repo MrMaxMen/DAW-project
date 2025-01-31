@@ -1,5 +1,5 @@
 public class Cont {
     public static void main(String[] args) {
-        System.out.println("merge to main");
+        System.out.println("2nd merge to main");
     }
 }
