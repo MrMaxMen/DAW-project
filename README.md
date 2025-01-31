@@ -1,1 +1,1 @@
-this project is hear to help us all level up our web development skills 
+this project is here to help us all level up our web development skills 
